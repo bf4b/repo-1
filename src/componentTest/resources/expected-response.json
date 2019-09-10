@@ -1,0 +1,17 @@
+{
+  "products": [
+    {
+      "productId": "abc123",
+      "title": "my title",
+      "colorSwatches": [
+        {
+          "color": "Hibiscus",
+          "rgbColor": "FFC0CB",
+          "skuid": "237345292"
+        }
+      ],
+      "nowPrice": "£9.99",
+      "priceLabel": "Was £22, then £18, now £9.99"
+    }
+  ]
+}

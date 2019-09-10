@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "unusedField": 123,
+      "productId": "abc123",
+      "title": "my title",
+      "price": {
+        "was": "22.00",
+        "then1": "19.30",
+        "then2": "18.88",
+        "now": "9.99",
+        "currency": "GBP"
+      },
+      "colorSwatches": [
+        {
+          "color": "Hibiscus",
+          "basicColor": "Pink",
+          "skuId": "237345292"
+        }
+      ]
+    }
+  ]
+}

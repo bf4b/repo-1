@@ -1,0 +1,4 @@
+jl:
+  products:
+    api:
+      url: "http://localhost:9191"
